@@ -1,21 +1,6 @@
 # Wiki-百科 #
-
 >不学无术，不知不道。
-
-## 修改模板 ##
 ```markdown
-## &Work ##
-<LinkRow :list="[
-    {
-        title: 'Wiki 1001',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'Meet 1000 Books & Unit Them Into 1 Wiki',
-        links: 'https://mulander-j.github.io/Wiki1001Pro/'
-    },
-]"></LinkRow>
-```
-源码
-```
 ## &FooSearch ##
 <LinkRow :list="[
     {
@@ -170,6 +155,41 @@
         icon: '/Wiki1001Pro/wiki/default.png',
         des: '默认',
          links: 'http://www.pixiv.net/'
+    },  {
+        title: 'Iconfont',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '阿里巴巴矢量图标库',
+         links: 'http://iconfont.cn/collections/index?spm=a313x.7781069.1998910419.4&type=1'
+    }, {
+        title: 'Font Awesome',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '图标库',
+         links: 'http://www.fontawesome.com.cn/faicons/'
+    },  {
+        title: 'IcoMoon',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'Icon Font',
+         links: 'https://icomoon.io/app/#/select'
+    },  {
+        title: 'Vectorizer',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'SVG转换',
+         links: 'https://www.vectorizer.io/'
+    },  {
+        title: 'Button Generator',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'CSS Button Generator',
+         links: 'https://www.bestcssbuttongenerator.com/#/38'
+    },  {
+        title: 'Favicon',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'ICO制作',
+         links: 'http://www.faviconico.org/'
+    },  {
+        title: 'Loading',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '动态图生成器',
+         links: 'https://loading.io/'
     }, {
         title: 'Abyss',
         icon: '/Wiki1001Pro/wiki/default.png',

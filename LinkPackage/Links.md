@@ -3,13 +3,12 @@
  加上平时搜集的一些，供博主日常学习与研究食用。
  如若对大家能有所帮助，那自是再好不过了 :) 😘
 
-```markdown
 ## &Awesome Array ##
 <LinkRow :list="[
     {
               title: '代码习惯',
               icon: '/Wiki1001Pro/wiki/default.png',
-              des: '通过分析github代码库总结出来的工程师代码书写习惯',
+              des: '工程师代码书写习惯',
               links: 'http://alloyteam.github.io/CodeGuide/'
     }, {
               title: '前端里',
@@ -54,7 +53,7 @@
     },{
               title: 'H5前端资料集',
               icon: '/Wiki1001Pro/wiki/default.png',
-              des: '1024程序员节最新福利之2018最全H5前端资料集',
+              des: '2018最全H5前端资料集',
               links: 'https://segmentfault.com/a/1190000016817904'
     },{
               title: 'github前端项目',
@@ -319,6 +318,11 @@
         icon: '/Wiki1001Pro/wiki/default.png',
         des: '渐变色',
         links: 'https://uigradients.com/#Summer'
+    },{
+        title: 'RGB颜色',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'RGB颜色值与十六进制颜色码转换工具',
+        links: 'https://www.sioe.cn/yingyong/yanse-rgb-16/'
     }
 ]"></LinkRow>
 ## &CSS ##
@@ -348,7 +352,7 @@
         icon: '/Wiki1001Pro/wiki/default.png',
         des: '布局教程',
         links: 'https://www.runoob.com/w3cnote/flex-grammar.html'
-    },
+    }
 ]"></LinkRow>
 ## &HyBird ##
 <LinkRow :list="[
@@ -449,6 +453,160 @@
         des: 'Jest vs. Mocha: Why Jest Wins',
         links: 'https://andrew.codes/jest-vs-mocha-why-jest-wins/'
     }
+]"></LinkRow>
+##  &FontEnd UI ##
+<LinkRow :list="[
+    {
+        title: 'UI大全',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://blog.csdn.net/m0_37499059/article/details/80519211'
+    },  {
+        title: '前端UI框架集合',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '32+',
+        links: 'https://segmentfault.com/a/1190000007699297'
+    },  {
+        title: 'pure.css',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://purecss.io/'
+    },  {
+        title: 'Bootstrap',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'v3 中文文档',
+        links: 'https://v3.bootcss.com/getting-started/'
+    },  {
+        title: 'Bootstrap Button',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'Bootstrap Button Generator',
+        links: 'http://blog.koalite.com/bbg/'
+    },  {
+        title: 'Ant Design of React ',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://ant.design/docs/react/introduce-cn'
+    },  {
+        title: 'Ant Design of Vue',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/'
+    },  {
+        title: 'Ant Design of Mobile',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://mobile.ant.design/docs/react/introduce-cn'
+    },  {
+        title: 'iView',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://www.iviewui.com/components/layout'
+    },  {
+        title: 'iview-admin',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://admin.iviewui.com/home'
+    },  {
+        title: 'iview-admin-doc',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://lison16.github.io/iview-admin-doc/#/'
+    },  {
+        title: 'Element-Vue',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://element.eleme.io/#/zh-CN'
+    },  {
+        title: 'Element-Angular',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://element-angular.faas.ele.me/guide/install'
+    },  {
+        title: 'element-admin-api',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'vue-element-admin-api',
+        links: 'https://panjiachen.gitee.io/vue-element-admin-site/zh/'
+    },  {
+        title: 'layer API ',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://layer.layui.com/api.html#layer.photos'
+    },  {
+        title: 'layui文档',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'layui开发使用文档',
+        links: 'http://www.layui.com/doc/'
+    },  {
+        title: 'layer弹出层',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'layer官方演示与讲解',
+        links: 'http://layer.layui.com/'
+    },  {
+        title: 'Win10-UI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://win10ui.yuri2.cn/'
+    },  {
+        title: 'WIN10-UI-Demo',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://win10ui.yuri2.cn/src/demo.php'
+    },  {
+        title: 'Win10 -Vue',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://github.com/jntoo/vue-win10'
+    },  {
+        title: 'Amaze UI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://amazeui.org/'
+    },  {
+        title: 'MUDI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://www.mdui.org/'
+    },  {
+        title: 'UIkit',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://getuikit.com/docs/introduction'
+    },{
+        title: 'Semantic UI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://semantic-ui.com/'
+    },{
+        title: 'Zent',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://youzan.github.io/zent/zh/guides/install'
+    },{
+        title: 'EasyUI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://www.jeasyui.net/'
+    },{
+        title: 'Plane UI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://pandao.github.io/planeui/'
+    },{
+        title: 'ZUI',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://zui.sexy/#/'
+    },{
+        title: 'AdminLTE',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://adminlte.la998.com/documentation/index.html'
+    },{
+        title: 'bootcss',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'http://www.bootcss.com/p/buttons/'
+    },
 ]"></LinkRow>
 ## &Interview ##
 <LinkRow :list="[
@@ -681,155 +839,6 @@
         links: 'https://segmentfault.com/a/1190000009268926'
     }
 ]"></LinkRow>
-##  &FontEnd UI ##
-<LinkRow :list="[
-    {
-        title: 'UI大全',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://blog.csdn.net/m0_37499059/article/details/80519211'
-    },  {
-        title: '前端UI框架集合',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '32+',
-        links: 'https://segmentfault.com/a/1190000007699297'
-    },  {
-        title: 'pure.css',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://purecss.io/'
-    },  {
-        title: 'Bootstrap',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'v3 中文文档',
-        links: 'https://v3.bootcss.com/getting-started/'
-    },  {
-        title: 'Bootstrap Button',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'Bootstrap Button Generator',
-        links: 'http://blog.koalite.com/bbg/'
-    },  {
-        title: 'Ant Design of React ',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://ant.design/docs/react/introduce-cn'
-    },  {
-        title: 'Ant Design of Vue',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/'
-    },  {
-        title: 'Ant Design of Mobile',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://mobile.ant.design/docs/react/introduce-cn'
-    },  {
-        title: 'iView',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://www.iviewui.com/components/layout'
-    },  {
-        title: 'iview-admin',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://admin.iviewui.com/home'
-    },  {
-        title: 'iview-admin-doc',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://lison16.github.io/iview-admin-doc/#/'
-    },  {
-        title: 'Element-Vue',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://element.eleme.io/#/zh-CN'
-    },  {
-        title: 'Element-Angular',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://element-angular.faas.ele.me/guide/install'
-    },  {
-        title: 'element-admin-api',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'vue-element-admin-api',
-        links: 'https://panjiachen.gitee.io/vue-element-admin-site/zh/'
-    },  {
-        title: 'layer API ',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://layer.layui.com/api.html#layer.photos'
-    },  {
-        title: 'layui文档',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'layui开发使用文档',
-        links: 'http://www.layui.com/doc/'
-    },  {
-        title: 'layer弹出层',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'layer官方演示与讲解',
-        links: 'http://layer.layui.com/'
-    },  {
-        title: 'Win10-UI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://win10ui.yuri2.cn/'
-    },  {
-        title: 'WIN10-UI-Demo',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://win10ui.yuri2.cn/src/demo.php'
-    },  {
-        title: 'Win10 -Vue',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://github.com/jntoo/vue-win10'
-    },  {
-        title: 'Amaze UI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://amazeui.org/'
-    },  {
-        title: 'MUDI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://www.mdui.org/'
-    },  {
-        title: 'UIkit',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://getuikit.com/docs/introduction'
-    },{
-        title: 'Semantic UI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://semantic-ui.com/'
-    },{
-        title: 'Zent',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://youzan.github.io/zent/zh/guides/install'
-    },{
-        title: 'EasyUI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://www.jeasyui.net/'
-    },{
-        title: 'Plane UI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'https://pandao.github.io/planeui/'
-    },{
-        title: 'ZUI',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://zui.sexy/#/'
-    },{
-        title: 'AdminLTE',
-        icon: '/Wiki1001Pro/wiki/default.png',
-        des: '不可描述',
-        links: 'http://adminlte.la998.com/documentation/index.html'
-    }
-]"></LinkRow>
 ## &Vue ##
 <LinkRow :list="[
     {
@@ -994,6 +1003,35 @@
         links: 'https://segmentfault.com/a/1190000014832185'
     }
 ]"></LinkRow>
+## &VuePress ##
+<LinkRow :list="[
+    {
+        title: 'vuepres.js',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: 'vuepres API',
+        links: 'https://vuepress.vuejs.org/zh/'
+    }, {
+        title: 'valine',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '一款快速、简洁且高效的无后端评论系统',
+        links: 'https://valine.js.org/'
+    }, {
+        title: 'leancloud',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://leancloud.cn/'
+    },{
+        title: 'google-analytics',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://analytics.google.com/'
+    },{
+        title: 'algolia',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '不可描述',
+        links: 'https://www.algolia.com/'
+    }
+]"></LinkRow>
 ## &Webpack ##
 <LinkRow :list="[
     {
@@ -1042,4 +1080,8 @@
         links: 'https://tencent.github.io/wepy/'
     }
 ]"></LinkRow>
-```
+
+
+[点我去补充](https://github.com/Mulander-J/Wiki1001Pro/blob/master/LinkPackage/Links.md)
+
+[此模板Copy自隔壁老王的随笔](https://dojay.cn/resource/)

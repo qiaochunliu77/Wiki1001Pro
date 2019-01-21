@@ -1,6 +1,6 @@
 # Wiki-百科 #
 >不学无术，不知不道。
-```markdown
+
 ## &FooSearch ##
 <LinkRow :list="[
     {
@@ -191,6 +191,11 @@
         des: '动态图生成器',
          links: 'https://loading.io/'
     }, {
+       title: 'SIOE',
+       icon: '/Wiki1001Pro/wiki/default.png',
+       des: '新晴工具',
+        links: 'https://www.sioe.cn/'
+   },{
         title: 'Abyss',
         icon: '/Wiki1001Pro/wiki/default.png',
         des: '默认',
@@ -566,4 +571,7 @@
               links: 'http://www.breathingearth.net/'
     }
 ]"></LinkRow>
-```
+
+[点我去补充](https://github.com/Mulander-J/Wiki1001Pro/blob/master/LinkPackage/Wiki.md)
+
+[此模板Copy自隔壁老王的随笔](https://dojay.cn/resource/)

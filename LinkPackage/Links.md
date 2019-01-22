@@ -122,7 +122,7 @@
     },{
            title: 'Aliued',
            icon: '/Wiki1001Pro/wiki/default.png',
-           des: '阿里巴巴-用户体验设计部博客U一点设计',
+           des: '阿里巴巴用户体验设计部',
            links: 'http://www.aliued.cn/'
     },{
            title: 'ChangYou VC',
@@ -302,7 +302,7 @@
     },    {
         title: 'chrome扩展',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'chrome浏览器扩展应用开发之旅',
+        des: 'chrome扩展应用开发',
         links: 'https://segmentfault.com/a/1190000009090857'
     }
 ]"></LinkRow>
@@ -321,7 +321,7 @@
     },{
         title: 'RGB颜色',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'RGB颜色值与十六进制颜色码转换工具',
+        des: 'RGB转十六进制',
         links: 'https://www.sioe.cn/yingyong/yanse-rgb-16/'
     }
 ]"></LinkRow>
@@ -628,12 +628,12 @@
     } ,{
          title: '通过阿里社招',
          icon: '/Wiki1001Pro/wiki/default.png',
-         des: '记一次“失利后”经过半年准备通过阿里社招的经历与感悟',
+         des: '半年准备通过阿里社招',
          links: 'https://segmentfault.com/a/1190000013129650'
     } ,{
          title: '面试分享2018',
          icon: '/Wiki1001Pro/wiki/default.png',
-         des: '面试分享：2018阿里巴巴前端面试总结(题目+答案 30题)',
+         des: '2018阿里前端面试总结',
          links: 'https://segmentfault.com/a/1190000013508719'
     } ,{
          title: '前端实习生',
@@ -723,7 +723,7 @@
     {
          title: '安全性能优化',
          icon: '/Wiki1001Pro/wiki/default.png',
-         des: '前端面试题（五）（安全、性能优化）',
+         des: '前端安全、性能优化',
          links: 'https://segmentfault.com/a/1190000015275832'
     },   {
          title: '安全满分网站',
@@ -919,12 +919,12 @@
     },{
         title: 'Vue全家桶',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'Vue全家桶+TypeScript使用总结',
+        des: 'Vue全家桶TypeScript使用总结',
         links: 'https://segmentfault.com/a/1190000013462418'
     },{
         title: 'token',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'VueJS和KOA2 实现基于 token 的登录注册',
+        des: 'VueJS+KOA2登录注册',
         links: 'https://segmentfault.com/a/1190000009381161'
     },{
         title: '第三方登录',
@@ -934,12 +934,12 @@
     },{
         title: 'vue-cli-webpack',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'vue-cli中一些webpack的配置总结',
+        des: 'cli中一些webpack的配置总结',
         links: 'https://segmentfault.com/a/1190000013648542'
     },{
         title: '双向绑定MVVM',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: '剖析Vue原理&amp;实现双向绑定MVVM',
+        des: 'vue双向绑定MVVM原理',
         links: 'https://segmentfault.com/a/1190000006599500'
     },{
         title: 'vue源码解析',
@@ -949,7 +949,7 @@
     },{
         title: 'defineProperty',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: '理解Object.defineProperty的作用',
+        des: '理解defineProperty的作用',
         links: 'https://segmentfault.com/a/1190000007434923'
     },{
         title: 'Computed',
@@ -994,7 +994,7 @@
     },{
         title: '痛点分析',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'Vue 项目里戳中你痛点的问题及解决办法（更新）',
+        des: 'Vue 项目里戳中你痛点',
         links: 'https://juejin.im/post/5b174de8f265da6e410e0b4e'
     },{
         title: '骨架屏',
@@ -1013,7 +1013,7 @@
     }, {
         title: 'valine',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: '一款快速、简洁且高效的无后端评论系统',
+        des: '快速简洁的无后端评论系统',
         links: 'https://valine.js.org/'
     }, {
         title: 'leancloud',
@@ -1030,6 +1030,11 @@
         icon: '/Wiki1001Pro/wiki/default.png',
         des: '不可描述',
         links: 'https://www.algolia.com/'
+    },{
+        title: 'VuePress评论系统',
+        icon: '/Wiki1001Pro/wiki/default.png',
+        des: '月肃生',
+        links: 'https://www.jianshu.com/p/8a4212b87509'
     }
 ]"></LinkRow>
 ## &Webpack ##
@@ -1061,7 +1066,7 @@
     {
         title: 'Weapp',
         icon: '/Wiki1001Pro/wiki/default.png',
-        des: 'iView Weapp--iview的小程序组件',
+        des: 'iView Weap小程序组件',
         links: 'https://segmentfault.com/a/1190000015249476'
     },    {
         title: 'wxParser',

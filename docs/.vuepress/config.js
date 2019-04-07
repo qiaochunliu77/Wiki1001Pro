@@ -72,6 +72,8 @@ module.exports = {
                         ['/FAQ/Console/A002','#A002_VuePress_2'],
                         ['/FAQ/Console/A003','#A003_图标库选择界面'],
                         ['/FAQ/Console/A004','#A004_初识Electron'],
+                        ['/FAQ/Console/A005','#A005_简单上手CSS-Shadow'],
+                        ['/FAQ/Console/A006','#A006_大屏数据可视化实现记录'],
                     ]
                 },
                 {

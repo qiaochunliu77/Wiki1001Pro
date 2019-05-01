@@ -1,5 +1,9 @@
-# Wiki1001-Template
-The Template For Wiki1001
+# Wiki1001-Pro
+The ProPage For Wiki1001
+
+##  模板说明 ##
+- 目录下 `wiki1001-template`   文件夹为模板源码
+- 亦可切换branch分支=>`temlpate`
 
 ## Build Setup  ##
 ```bash

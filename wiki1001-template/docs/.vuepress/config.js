@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Wiki 1001',
-    description: '金志相的 Wiki 1001 维基博客',
+    description: '****的 **** 维基博客',
     //  指定 vuepress build 的输出目录
     dest:'./dist',
     // 注入到当前页面的 HTML <head> 中的标签
